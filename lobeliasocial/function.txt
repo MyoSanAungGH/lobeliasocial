@@ -1,0 +1,12 @@
+	- Authentication system
+	- register
+	- login 
+	- logout
+	- posts CRUD with Permission
+	- Like Unlike system
+	- Comment System
+	- Online User
+	- All Posts,own posts, friend lists
+	- popular post/author
+	- Pagination system with friend list
+	- Searching system 
